@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Shawn Cao 👋
 
-<!--
-**Shawn-cao741/Shawn-cao741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [your current project or job]
+- 🌱 I’m currently learning [what you're learning, e.g., TypeScript, Machine Learning]
+- 💬 Ask me about [areas of expertise or interest]
+- 📫 How to reach me: [your email or other contact information]
+- ⚡ Fun fact: [a fun fact about yourself]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- **Languages:** [list programming languages, e.g., Python, JavaScript, etc.]
+- **Frameworks:** [list frameworks, e.g., React, Django, etc.]
+- **Tools:** [list tools, e.g., Git, Docker, etc.]
+- **Databases:** [list databases, e.g., MySQL, MongoDB, etc.]
+
+## Projects
+
+- [Project Name](link to project) - Short description of the project.
+- [Project Name](link to project) - Short description of the project.
+- [Project Name](link to project) - Short description of the project.
+
+## GitHub Stats
+
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-cao741&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](link to your LinkedIn profile)
+- [Twitter](link to your Twitter profile)
+- [Personal Website/Blog](link to your website or blog)
