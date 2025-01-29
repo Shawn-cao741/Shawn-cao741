@@ -1,25 +1,10 @@
-# Hi there, I'm Shawn Cao 👋
+# Hi there, I'm Shawn 👋
 
 ## About Me
 
-- 🔭 I’m currently working on [your current project or job]
-- 🌱 I’m currently learning [what you're learning, e.g., TypeScript, Machine Learning]
-- 💬 Ask me about [areas of expertise or interest]
-- 📫 How to reach me: [your email or other contact information]
-- ⚡ Fun fact: [a fun fact about yourself]
-
-## My Skills
-
-- **Languages:** [list programming languages, e.g., Python, JavaScript, etc.]
-- **Frameworks:** [list frameworks, e.g., React, Django, etc.]
-- **Tools:** [list tools, e.g., Git, Docker, etc.]
-- **Databases:** [list databases, e.g., MySQL, MongoDB, etc.]
-
-## Projects
-
-- [Project Name](link to project) - Short description of the project.
-- [Project Name](link to project) - Short description of the project.
-- [Project Name](link to project) - Short description of the project.
+- 🔭 I’m interested in AI aidded communication system designe, especially for the physical layer.
+- 🌱 I’m currently learning Communication Engineering at UESTC, and I have been to NTU and Khalifa University for a short-term and long-term intern respectively.
+- 💬 I'm a beginner in this domain, I'll share some interesting codes here.
 
 ## GitHub Stats
 
@@ -27,6 +12,4 @@
 
 ## Connect with Me
 
-- [LinkedIn](link to your LinkedIn profile)
-- [Twitter](link to your Twitter profile)
-- [Personal Website/Blog](link to your website or blog)
+- [Email]caos_2971@outlook.com
