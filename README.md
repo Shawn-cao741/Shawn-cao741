@@ -3,8 +3,8 @@
 ## About Me
 
 - 🔭 I’m interested in AI aidded communication system designe, especially for the physical layer.
-- 🌱 I’m currently learning Communication Engineering at UESTC, and I have been to NTU and Khalifa University for a short-term and long-term intern respectively.
-- 💬 I'm a beginner in this domain, I'll share some interesting codes here.
+- 🌱 I’m currently a master student learning Wireless Communications at Lund University. I graduated with a bachelor's degree in Communication Engineering from the University of Electronic Science and Technology of China and I have been to NTU and Khalifa University for a short-term and long-term intern respectively.
+- 💬 I'm a beginner in this domain and I'm really into wireless world. If you are interested in some codes, feel free to contact me.
 
 ## GitHub Stats
 
