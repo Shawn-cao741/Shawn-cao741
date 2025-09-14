@@ -1,4 +1,4 @@
-# Hi there, I'm Shawn 👋
+# Hi there, I'm Shuang 👋
 
 ## About Me
 
