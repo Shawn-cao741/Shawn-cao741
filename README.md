@@ -8,7 +8,7 @@
 
 ## GitHub Stats
 
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-cao741&show_icons=true&theme=radical)
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=CS688&show_icons=true&theme=radical)
 
 ## Connect with Me
 
